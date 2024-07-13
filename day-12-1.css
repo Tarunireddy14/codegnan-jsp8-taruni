@@ -1,0 +1,72 @@
+.z{
+	align-text:center;
+	background-color: hotpink;
+	font-size: 30px;
+	width: 50%;
+	height: 40px;
+	border: solid;
+	border-color: seagreen;
+	border-width: 4px;
+	border-radius: 10px;
+	border-top-color:yellow ;
+	border-bottom-color:blueviolet ;
+	padding: 10px;
+	margin: 30px;
+	padding-left: 25px;
+	text-align: center;
+	align-content: center;
+	font-family: brush script mt;
+	font-style: italic;
+	text-decoration: underline;
+	text-indent: 30%;
+	letter-spacing: 10px;
+	direction: rtl;
+	text-shadow: 6px 8px 2px black;
+	word-spacing: 10px;
+}
+.y{
+	align-text:center;
+	background-color: maroon;
+	font-size: 30px;
+	width: 50%;
+	height: 40px;
+	border: solid;
+	border-color: seagreen;
+	border-width: 4px;
+	border-radius: 30px;
+	border-top-color:yellow ;
+	border-bottom-color:blueviolet ;
+	padding: 10px;
+	margin: 30px;
+	padding-left: 25px;
+	text-align: center;
+	align-content: center;
+	font-family: garamond;
+	font-style: normal;
+	text-decoration: line-through;
+	font-variant: small-caps;
+}
+.x{
+	align-text:center;
+	background-color: tomato;
+	font-size: 30px;
+	width: 50%;
+	height: 40px;
+	border: solid;
+	border-color: seagreen;
+	border-width: 4px;
+	border-top-color:yellow ;
+	border-bottom-color:blueviolet ;
+	padding: 10px;
+	margin: 30px;
+	padding-left: 25px;
+	text-align: center;
+	align-content: center;
+	box-shadow: 10px 10px 100px orangered;
+	border-radius: 25%;
+	font-family: trebuchet ms;
+	font-style: oblique;
+	text-decoration: overline;
+	text-shadow: 3px 3px 10px greenyellow;
+	
+}
